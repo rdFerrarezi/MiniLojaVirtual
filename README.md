@@ -1,0 +1,2 @@
+# MiniLojaVirtual
+Exercício loja virtural
